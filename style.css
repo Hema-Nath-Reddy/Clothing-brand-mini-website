@@ -1,0 +1,16 @@
+.home{
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    margin-left: 10vw;
+    margin-right: 60vw;
+    color: white;
+    line-height: 5vh;
+    font-family: montserrat;
+}
+body{
+    background-image: url(bg1.jpg);
+    background-size: 100%; 
+}
